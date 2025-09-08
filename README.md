@@ -42,7 +42,15 @@ To be released upon paper publication.
 ## Cite
 
 ```
-
+@misc{peng2025interpretableoraclebonescript,
+      title={Interpretable Oracle Bone Script Decipherment through Radical and Pictographic Analysis with LVLMs}, 
+      author={Kaixin Peng and Mengyang Zhao and Haiyang Yu and Teng Fu and Bin Li},
+      year={2025},
+      eprint={2508.10113},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2508.10113}, 
+}
 ```
 
 
