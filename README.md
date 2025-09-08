@@ -4,7 +4,7 @@
 
 This repository is the implementation of the [paper](https://arxiv.org/abs/2508.10113) "*Interpretable Oracle Bone Script Decipherment through Radical and Pictographic Analysis with LVLMs*". 
 
-Our dataset (PD-OBS) is avaliable  [here]().
+Our dataset (PD-OBS) is avaliable  [here](https://drive.google.com/file/d/18ySKhRZUdTfFpmjQNRirEAlM67-QZBt4/view).
 
 
 ## Dataset 
