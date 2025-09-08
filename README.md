@@ -2,7 +2,7 @@
 
 > Kaixin Peng, Mengyang Zhao, Haiyang Yu, Teng Fu, Bin Li\*
 
-This repository is the implementation of the [paper]() "*Interpretable Oracle Bone Script Decipherment through Radical and Pictographic Analysis with LVLMs*". 
+This repository is the implementation of the [paper](https://arxiv.org/abs/2508.10113) "*Interpretable Oracle Bone Script Decipherment through Radical and Pictographic Analysis with LVLMs*". 
 
 Our dataset (PD-OBS) is avaliable  [here]().
 
